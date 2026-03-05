@@ -1,0 +1,5 @@
+{
+  "name": "TFR Visualizer",
+  "description": "A tool to visualize the impact of Total Fertility Rates (TFR) on population decline or growth over generations.",
+  "requestFramePermissions": []
+}
